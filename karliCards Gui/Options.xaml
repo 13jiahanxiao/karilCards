@@ -91,8 +91,5 @@
                     Height="22" Margin="10,0,0,0"
                     Name="okButton" Click="okButton_Click"/>
         </StackPanel>
-        
-
-
     </Grid>
 </Window>
